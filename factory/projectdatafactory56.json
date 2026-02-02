@@ -1,0 +1,9 @@
+{
+	"name": "projectdatafactory56",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a65dc73-f6e6-46cc-9a98-f84a9e039126",
+		"tenantId": "510e6aa6-bc11-4f1a-bd10-8a607e0cad6c"
+	}
+}
