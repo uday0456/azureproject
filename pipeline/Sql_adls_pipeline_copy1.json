@@ -291,7 +291,7 @@
 												"parameters": {
 													"container": "bronze",
 													"folder": {
-														"value": "@pipeline().parameters.table",
+														"value": "@{item().table}_cdc",
 														"type": "Expression"
 													},
 													"table": "empty.json"
@@ -384,9 +384,6 @@
 						"from_date": ""
 					}
 				]
-			},
-			"table": {
-				"type": "string"
 			}
 		},
 		"variables": {
