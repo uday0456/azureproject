@@ -1,0 +1,9 @@
+{
+	"name": "ADFspotify56",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "01294f2d-46da-4fab-92e1-429a8e06c5ba",
+		"tenantId": "8a6ef044-3b3d-433b-84c1-d22ca6efa7d9"
+	}
+}
